@@ -1,1 +1,1 @@
-# loginreg.github.io
+# https://loginreg.github.io/
